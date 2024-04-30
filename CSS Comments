@@ -1,5 +1,5 @@
 
-# CSS Santyx
+# CSS Comments
 
 ## Santyx :
 CSS comments can be written in two ways:
